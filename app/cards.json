@@ -1,0 +1,245 @@
+[
+  {
+    "id": "card-001",
+    "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800",
+    "prompt": "Close-up leão africano macho, luz suave de entardecer, lente teleobjetiva 200mm, foco cravado no olhar",
+    "category": "wildlife",
+    "isAi": false,
+    "subject": "Leão Africano",
+    "explanation": "Fotografia real; pelagem, microfios e reflexo corneano com distribuição física natural."
+  },
+  {
+    "id": "card-002",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800",
+    "prompt": "Edifício contemporâneo em concreto aparente e vidro, perspectiva ortogonal, iluminação neutra diurna",
+    "category": "architecture",
+    "isAi": false,
+    "subject": "Edifício Moderno",
+    "explanation": "Arquitetura autêntica; caixilhos e juntas de dilatação seguem modulação estrutural rígida."
+  },
+  {
+    "id": "card-003",
+    "imageUrl": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800",
+    "prompt": "Um leão albino descansando após dia cheio.",
+    "category": "wildlife",
+    "isAi": false,
+    "subject": "Lobo Cinzento",
+    "explanation": "Fotografia real da vida selvagem canadense registrada em alta velocidade de obturador."
+  },
+  {
+    "id": "card-004",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+    "prompt": "Arranha-céu de vidro espelhado em ângulo contra-plongée dramático, céu limpo, linhas de fuga simétricas",
+    "category": "architecture",
+    "isAi": false,
+    "subject": "Fachada Espelhada",
+    "explanation": "Edifício real; os reflexos nas janelas preservam a geometria coerente do horizonte urbano."
+  },
+  {
+    "id": "card-005",
+    "imageUrl": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef?w=800",
+    "prompt": "Filhote de coruja buraqueira camuflada na areia, iluminação solar direta, bokeh de dunas",
+    "category": "wildlife",
+    "isAi": false,
+    "subject": "Coruja Buraqueira",
+    "explanation": "Espécime natural; simetria das penas faciais e reflexos sem artefatos de difusão."
+  },
+  {
+    "id": "card-006",
+    "imageUrl": "http://localhost:8000/media/generated/1.jpg",
+    "prompt": "Uma pequena capela branca de telhado laranja no topo de um pilar de rocha isolado no mar, com ondas batendo e céu nublado de tempestade.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 01",
+    "explanation": "Imagem gerada por inteligência artificial; a cena foi adicionada ao conjunto de composições sintéticas para comparação visual."
+  },
+  {
+    "id": "card-007",
+    "imageUrl": "http://localhost:8000/media/generated/2.jpg",
+    "prompt": "Um prédio surreal de concreto com varandas circulares empilhadas e casinhas rosadas encaixadas nele, numa rua europeia em dia nublado.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 02",
+    "explanation": "Imagem gerada por inteligência artificial; observe a combinação uniforme de textura, luz e profundidade de campo."
+  },
+  {
+    "id": "card-008",
+    "imageUrl": "http://localhost:8000/media/generated/3.jpg",
+    "prompt": "Um peixe de águas profundas com a cabeça transparente, olhos verdes brilhantes e nadadeiras roxas delicadas, em fundo preto.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 03",
+    "explanation": "Imagem gerada por inteligência artificial; a origem sintética é revelada apenas no relatório final."
+  },
+  {
+    "id": "card-009",
+    "imageUrl": "http://localhost:8000/media/generated/4.jpg",
+    "prompt": "Uma vila de casas brancas construída sob uma enorme rocha em forma de cogumelo, com duas turistas caminhando numa trilha ao pôr do sol.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 04",
+    "explanation": "Imagem gerada por inteligência artificial; compare a coerência das formas e dos pequenos detalhes orgânicos."
+  },
+  {
+    "id": "card-010",
+    "imageUrl": "http://localhost:8000/media/generated/5.jpg",
+    "prompt": "Uma casa azul de cabeça para baixo, com o telhado no chão, e turistas tirando fotos na frente dela.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 05",
+    "explanation": "Imagem gerada por inteligência artificial; a cena pertence ao conjunto sintético fornecido para o desafio."
+  },
+  {
+    "id": "card-011",
+    "imageUrl": "http://localhost:8000/media/generated/6.jpg",
+    "prompt": "Um arranha-céu coberto de vegetação densa e cascatas descendo pelas varandas, no cruzamento de uma cidade asiática.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 06",
+    "explanation": "Imagem gerada por inteligência artificial; avalie a relação entre iluminação, anatomia e textura."
+  },
+  {
+    "id": "card-012",
+    "imageUrl": "http://localhost:8000/media/generated/7.jpg",
+    "prompt": "Um caminhante com mochila andando por uma trilha numa floresta outonal de árvores com troncos retorcidos em espiral.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 07",
+    "explanation": "Imagem gerada por inteligência artificial; a classificação correta depende da análise crítica da composição."
+  },
+  {
+    "id": "card-013",
+    "imageUrl": "http://localhost:8000/media/generated/8.jpg",
+    "prompt": "Um hotel de vários andares com janelas curvas embutido no tronco de uma árvore gigante na selva, com escada em espiral e turistas na plataforma.",
+    "category": "wildlife",
+    "isAi": true,
+    "subject": "Fauna sintética 08",
+    "explanation": "Imagem gerada por inteligência artificial; ela não corresponde a uma captura fotográfica do conjunto real."
+  },
+  {
+    "id": "card-014",
+    "imageUrl": "http://localhost:8000/media/generated/9.jpg",
+    "prompt": "Um pássaro com crista dourada, corpo verde e uma cauda azul longuíssima, pousado num galho com musgo numa floresta de neblina.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 01",
+    "explanation": "Imagem gerada por inteligência artificial; observe a regularidade das linhas, superfícies e reflexos."
+  },
+  {
+    "id": "card-015",
+    "imageUrl": "http://localhost:8000/media/generated/10.jpg",
+    "prompt": "Uma corça albina totalmente branca em pé numa floresta de pinheiros com luz suave atravessando a névoa.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 02",
+    "explanation": "Imagem gerada por inteligência artificial; a estrutura foi criada para parecer uma fotografia arquitetônica plausível."
+  },
+  {
+    "id": "card-016",
+    "imageUrl": "http://localhost:8000/media/generated/11.jpg",
+    "prompt": "Uma perereca azul-turquesa com asas transparentes de inseto, sobre um galho úmido na floresta tropical.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 03",
+    "explanation": "Imagem gerada por inteligência artificial; procure continuidades improváveis em materiais, sombras e geometria."
+  },
+  {
+    "id": "card-017",
+    "imageUrl": "http://localhost:8000/media/generated/12.jpg",
+    "prompt": "Um prédio surreal de concreto com varandas circulares empilhadas e casinhas rosadas encaixadas nele, numa rua europeia em dia nublado.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 04",
+    "explanation": "Imagem gerada por inteligência artificial; a origem da cena é confirmada pelo conjunto de imagens sintéticas."
+  },
+  {
+    "id": "card-018",
+    "imageUrl": "http://localhost:8000/media/generated/13.jpg",
+    "prompt": "Um edifício que combina um piano de cauda preto e um violino de vidro gigante, cercado por gramado e árvores.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 05",
+    "explanation": "Imagem gerada por inteligência artificial; analise a repetição de padrões e a lógica das superfícies."
+  },
+  {
+    "id": "card-019",
+    "imageUrl": "http://localhost:8000/media/generated/14.jpg",
+    "prompt": "Um prédio antigo com a fachada ondulada, como se estivesse derretendo, e janelas tortas, com bicicletas estacionadas na frente.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 06",
+    "explanation": "Imagem gerada por inteligência artificial; a composição foi incluída como desafio de percepção visual."
+  },
+  {
+    "id": "card-020",
+    "imageUrl": "http://localhost:8000/media/generated/15.jpg",
+    "prompt": "O hotel Marina Bay Sands em Singapura ao entardecer, com as torres iluminadas e refletidas na água.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 07",
+    "explanation": "Imagem gerada por inteligência artificial; compare a perspectiva e a repetição dos elementos estruturais."
+  },
+  {
+    "id": "card-021",
+    "imageUrl": "http://localhost:8000/media/generated/16.jpg",
+    "prompt": "Um prédio em formato de robô sorridente prateado, com olhos redondos e engrenagens, numa rua movimentada com motos.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 08",
+    "explanation": "Imagem gerada por inteligência artificial; a cena faz parte do lote sintético analisado para o jogo."
+  },
+  {
+    "id": "card-022",
+    "imageUrl": "http://localhost:8000/media/generated/17.jpg",
+    "prompt": "Uma garagem cuja fachada parece uma estante de livros gigantes, com lombadas de clássicos da literatura, numa rua de cidade num dia de sol.",
+    "category": "architecture",
+    "isAi": true,
+    "subject": "Arquitetura sintética 09",
+    "explanation": "Imagem gerada por inteligência artificial; observe a aparência fotográfica construída digitalmente."
+  },
+  {
+    "id": "card-023",
+    "imageUrl": "http://localhost:8000/media/real/real1.jpg",
+    "prompt": "Um prédio comercial com fachada de robô de olhos sonolentos e parafusos gigantes, cercado por arranha-céus ao entardecer.",
+    "category": "wildlife",
+    "isAi": false,
+    "subject": "Fotografia real 01",
+    "explanation": "Fotografia autêntica do conjunto real fornecido; a imagem foi registrada por câmera e não gerada por modelo de IA."
+  },
+  {
+    "id": "card-024",
+    "imageUrl": "http://localhost:8000/media/real/real2.jpg",
+    "prompt": "O Marina Bay Sands em Singapura de dia, com as três torres e o terraço em forma de barco no topo, visto da baía.",
+    "category": "wildlife",
+    "isAi": false,
+    "subject": "Fotografia real 02",
+    "explanation": "Fotografia autêntica do conjunto real fornecido; os metadados da câmera reforçam a origem fotográfica do arquivo."
+  },
+  {
+    "id": "card-025",
+    "imageUrl": "http://localhost:8000/media/real/real3.jpg",
+    "prompt": "Uma casa torta de fachada ondulada e telhado curvo numa praça de cidade polonesa, com pessoas passando e árvores dos lados.",
+    "category": "wildlife",
+    "isAi": false,
+    "subject": "Fotografia real 03",
+    "explanation": "Fotografia autêntica do conjunto real fornecido; a imagem mantém as características de uma captura de câmera."
+  },
+  {
+    "id": "card-026",
+    "imageUrl": "http://localhost:8000/media/real/real4.jpg",
+    "prompt": "Um prédio em forma de piano de cauda preto com um violino de vidro gigante na entrada, num parque gramado.",
+    "category": "architecture",
+    "isAi": false,
+    "subject": "Fotografia real 04",
+    "explanation": "Fotografia autêntica do conjunto real fornecido; a cena não foi criada por inteligência artificial."
+  },
+  {
+    "id": "card-027",
+    "imageUrl": "http://localhost:8000/media/real/real5.jpeg",
+    "prompt": "Uma biblioteca com fachada de lombadas de livros gigantes coloridos, numa rua de inverno com árvores sem folhas.",
+    "category": "architecture",
+    "isAi": false,
+    "subject": "Fotografia real 05",
+    "explanation": "Fotografia autêntica do conjunto real fornecido; o arquivo foi incluído como contraponto às imagens geradas."
+  }
+]
